@@ -1,8 +1,8 @@
 # Knowledge Not Shared is Wasted
 
 - 👋 Hi, I’m @coderRishiKrishna
-- 👀 I’m interested in improving my problem solving skills
-- 🌱 I’m currently learning functional programming paradigm
+- 👀 I’m interested in improving my problem solving skills and learning new technologies.
+- 🌱 I’m currently learning and working in python & c++ programming language.
 - 💞️ I’m looking to collaborate on various projects or challenges which will help me improve my skills 
 
 <!---
